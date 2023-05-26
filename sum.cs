@@ -4,7 +4,7 @@ using System.Linq;
 
 // Part 1: declare 2 collections of int elements.
 int[] array1 = { 1, 1, 2 };
-List<int> list1 = new List<int>() { 1, 1, 2 };
+List<int> list1 = new List<int>() { 1, 1, 2, 3 };
 
 // Part 2: use Sum extension on their elements.
 int sum1 = array1.Sum();
